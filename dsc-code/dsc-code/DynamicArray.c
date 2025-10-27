@@ -47,7 +47,7 @@ DynamicArray *create_array(size_t initial_capcity)
 
 	{
 
-		initial_capcity == INITIAL_CAPACITY;
+		initial_capcity = INITIAL_CAPACITY;
 	}
 
 	DynamicArray *arr = (DynamicArray *)malloc(sizeof(DynamicArray));
