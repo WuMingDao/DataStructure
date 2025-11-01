@@ -118,7 +118,7 @@ We welcome all forms of contributions! Check out the [Contributing Guide](CONTRI
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Frank-Code-Show/DataStructure/blob/main/LICENSE) file for details
 
 ---
 
